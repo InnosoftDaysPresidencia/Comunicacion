@@ -1,0 +1,10 @@
+Crónica: Hybreed, framework profesional de desarrollo híbrido de apps.
+----------------------------------------------------------------------
+por Javier Centeno Vega
+
+Hybreed es un framework que permite el desarrollo de aplicaciones híbridas, es decir, aplicaciones que usan tecnologías de páginas web.
+
+Esto funciona gracias a las WebViews, componentes nativos de los sistemas operativos de teléfono que permiten crear una ventana de navegador web a pantalla completa con acceso a las funciones nativas del sistema. Apache Cordova es un sistema que usa esta tecnología en el cual Hybreed está basado.
+
+Con Hybreed, es posible desarrollar applicaciones con solo HTML, CSS y JS para su uso local, lo cual nos ofrece muchas de las ventajas de aplicaciones web (como su capacidad de funcionar igualmente en todos los sistemas o su facilidad de creación) sin necesitar una conexión a internet para ser usadas ni tener que administrar servidores o cargas de trabajo.
+
