@@ -1,0 +1,16 @@
+Crónica: Docker, herramienta para automatizar el despliegue de apps
+-------------------------------------------------------------------
+Por Javier Centeno Vega
+
+¿Por qué es necesario docker?
+
+A medida que instalamos aplicaciones, es posible que una aplicación modifique una librería o recurso del sistema afectando a la ejecución de otras aplicaciones o incluso la del sistema en sí.
+
+La primera medida que se tomó para solucionar este problema es la virtualización, mediante la cual se crean máquinas virtuales donde los cambios no afectan a otros sistemas. Sin embargo, requiere de un sistema operativo entero para cada máquina virtual.
+
+Con docker, hacemos que una aplicación pueda estar en su propio contenedor. Un contenedor es una pequeña aplicación que contiene una imagen con las librerías y configuración que necesita una aplicación.
+
+Docker usa una interfaz para interactuar con el sistema operativo, evitando la necesidad de virtualizar todo un sistema operativo. Ésto hace de los contenedores de docker una alternativa ligera a los sistemas virtualizados con más posibles aplicaciones.
+
+Es fácil poner a un contenedor funcionando, aislar aplicaciones dentro de un contenedor y distribuir una aplicación a lo largo de varios sistemas para la manipulación de grandes cargas de trabajo.
+
