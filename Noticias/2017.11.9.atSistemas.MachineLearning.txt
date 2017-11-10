@@ -1,0 +1,10 @@
+Crónica: Machine Learning, desarrollar técnicas que permitan a las máquinas aprender
+------------------------------------------------------------------------------------
+Por Javier Centeno Vega
+
+Una de las revoluciones recientes en la industria es la capacidad de programar máquinas para aprender y tomar decisiones educadas. Las empresas invierten en estas nuevas funciones ya que les permite procesar datos con un coste mucho menor.
+
+Una de las técnicas más usadas son las redes neuronales, con las que se puede resolver problemas dados dos conjuntos de posibles parámetros de problema cuya solución correspondiente se conoce para el entrenamiento y las pruebas de la red.
+
+Para hacer ésto posible, hay que definir la red, el número de entradas y salidas, capas y funciones de activación. Una vez definida la representación de un problema como una serie de parámetros de entrada y de salida, se puede resolver con una red neuronal.
+
