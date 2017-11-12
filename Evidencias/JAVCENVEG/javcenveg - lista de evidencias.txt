@@ -1,0 +1,40 @@
+Reuniones
+ -	Evidencia  1:	2:00 horas
+ -	Evidencia  3:	2:00 horas
+ -	Evidencia  5:	2:00 horas
+
+Mockups ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/40 )
+ -	Evidencia  2:	1:00 horas
+
+Noticias ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/28 ) ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/69 )
+ -	Evidencia  4:	0:50 horas
+ -	Evidencia  6:	0:50 horas
+ -	Evidencia  7:	0:50 horas
+ -	Evidencia  8:	0:40 horas
+ -	Evidencia  9:	0:40 horas
+ -	Evidencia 13:	0:40 horas
+
+Pasar el programa a PDF ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/28 )
+ -	Evidencia 10:	1:30 horas
+ -	Evidencia 12:	0:30 horas
+
+Diseño papeleta raspberry pi ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/48 )
+ -	Evidencia 11:	1:10 horas
+
+Crónica: Taller de atSistemas (Hybreed) ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/55 )
+ -	Evidencia 14:	0:40 horas
+
+Crónica: Conferencia de Mª Carmen Romero ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/51 )
+ -	Evidencia 15:	1:00 horas
+
+Crónica: Conferencia de eCapture 3D ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/57 )
+ -	Evidencia 16:	0:50 horas
+
+Crónica: Taller de atSistemas (Docker) ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/61 )
+ -	Evidencia 17:	0:40 horas
+
+Crónica: Conferencia de atSistemas (machine learning) ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/62 )
+ -	Evidencia 18:	0:30 horas
+
+Crónica: Conferencia de Pedro Grau ( https://github.com/InnosoftDaysPresidencia/Comunicacion/issues/65 )
+ -	Evidencia 19:	0:40 horas
