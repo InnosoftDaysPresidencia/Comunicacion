@@ -1,0 +1,15 @@
+1: 55 minutos
+2: 10 minutos
+3: 50 minutos
+4: 1 hora y 12 minutos
+5: 2 horas y 50 minutos
+6: 45 minutos
+7: 2 horas y 15 minutos
+8: 1 hora y 20 minutos
+9: 15 minutos
+
+TOTAL 10 horas y 32 minutos
+
+Jornadas 575 minutos = 9 horas y 35 minutos
+
+TOTAL 20 horas y 7 minutos
